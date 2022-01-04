@@ -42,6 +42,15 @@
         "dev"
       ],
       "id": 5
+    },
+    {
+      "title": "A new blog",
+      "body": "Creating a new blog, this is pretty cool",
+      "tags": [
+        "html",
+        "vue"
+      ],
+      "id": 6
     }
   ]
 }
